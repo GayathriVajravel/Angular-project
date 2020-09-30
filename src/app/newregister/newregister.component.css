@@ -1,0 +1,55 @@
+.example-spacer {
+    flex: 1 1 auto;
+    padding-right: 50px;
+  }
+  mat-grid-tile{
+    /* background-color: aliceblue; */
+  }
+  
+   .main-div mat-card{
+    padding:0px;
+    border-radius:20px ;
+    border-color:2px solid black;
+} 
+.main-div h1{
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+.login-form{
+padding:20px;
+}
+
+/* .grid1
+{
+ background-image:url('src/app/images/angular.png');
+} */
+
+.grid2
+{
+  background-color:	#f7f7f7;
+}
+
+.login{
+  float: right;
+  font-size: 12px;
+  text-align: center;
+  padding: -20px;
+}
+.spacer{
+  flex: 1 1 auto;
+}
+#in_uname{
+  padding-left: 10px;
+  font-size: 13px;
+}
+#in_password{
+  padding-left: 10px;
+  font-size: 13px;
+}
+#mobile{
+  padding-top: 12px;
+}
+#toolbar_color{
+  background-color:green;
+}
